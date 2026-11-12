@@ -2,7 +2,7 @@
 
 An HR onboarding dashboard for People Ops teams and new hires. It's a single HTML file with no build step, no backend, and no dependencies.
 
-**Live demo:** https://reyysc.github.io/HireAssist/
+**Live demo:** https://onboardingassist.netlify.app
 
 ![HireAssist dashboard](docs/screenshot-dashboard.png)
 
